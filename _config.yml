@@ -16,7 +16,7 @@ url: qiong.xinxin2021.tk
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /1
+baseurl: /2
 
 
 #
@@ -40,6 +40,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 示例
+    url: /example
 
 # 每页的文章数
 paginate: 8
